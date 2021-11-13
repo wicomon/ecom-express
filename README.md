@@ -28,5 +28,5 @@ npm run test
 
 * Website: https://wcv-portfolio.netlify.app
 * Github: [@wicomon](https://github.com/wicomon)
-* LinkedIn: [@https:\/\/www.linkedin.com\/in\/wcv-94\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/wcv-94\/)
+* LinkedIn: [@https:\/\/www.linkedin.com\/in\/wcv-94\/](https://linkedin.com/in/wcv-94\/)
 
