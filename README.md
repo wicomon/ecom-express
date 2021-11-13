@@ -30,10 +30,3 @@ npm run test
 * Github: [@wicomon](https://github.com/wicomon)
 * LinkedIn: [@https:\/\/www.linkedin.com\/in\/wcv-94\/](https://linkedin.com/in/https:\/\/www.linkedin.com\/in\/wcv-94\/)
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
